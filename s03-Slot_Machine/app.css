@@ -1,8 +1,16 @@
 .win {
-  color: white;
-  background-color: green;
+    color: white;
+    background-color: green;
+    /*font-size: '50px';*/
 }
+
 .lose {
-  color: white;
-  background-color: red;
+    color: white;
+    background-color: red;
+    /*font-size: '100px';*/
+}
+
+.fruitStyle {
+    font-size: '100px';
+    background-color: teal;
 }
